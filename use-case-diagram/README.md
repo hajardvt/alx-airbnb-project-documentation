@@ -1,6 +1,6 @@
 # Use Case Diagram — Backend Features
 
-> Export your diagram as **use-case.png** and store it in this folder.
+
 
 ## Actors
 - **Guest**: browses, books, pays, reviews.
